@@ -1,0 +1,12 @@
+{
+	  "name": "vvd"
+	, "version": "0.1.0"
+	, "dependencies":
+		{ "request": "*"
+		, "optparse": "*"
+		, "winston": "*"
+		, "zmq": "*"
+		}
+	, "private": "true"
+}
+
