@@ -24,13 +24,13 @@ Also, it decouples the internals; especially, the configuration and the keys fro
 I have no clue what I am talking about! I just wanted to do this, badly!!
 
 Example request:
-{
-	  "type": "search"
-	, "keyword": "blarg"
-}
+    {
+    	  "type": "search"
+    	, "keyword": "blarg"
+    }
 
-{
-	  "type": "detail"
-	, "id": "f00"
-}
+    {
+    	  "type": "detail"
+    	, "id": "f00"
+    }
 
